@@ -1,0 +1,57 @@
+.h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.con {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+.wel {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.copy {
+    text-align: center;
+}
+
+.photos {
+    position: relative;
+}
+
+.photo-text {
+    position: absolute;
+    top: 25%;
+    color: #fff;
+    padding: 10px;
+
+}
+
+.photo-text h4 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-bottom: 2px;
+    color: white;
+}
+
+#char {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
