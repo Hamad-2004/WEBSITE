@@ -30,6 +30,7 @@ body {
 
 .photos {
     position: relative;
+    opacity: 0.9;
 }
 
 .photo-text {
